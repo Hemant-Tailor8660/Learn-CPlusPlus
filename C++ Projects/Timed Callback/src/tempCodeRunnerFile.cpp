@@ -1,0 +1,4 @@
+~Timer()
+		// {
+		// 	active = false;
+		// }

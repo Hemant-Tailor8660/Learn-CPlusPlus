@@ -1,0 +1,1 @@
+Singleton::getInstance().print("Parent process is Waiting for threads");

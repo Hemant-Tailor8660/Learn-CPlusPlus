@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DataStructures_Projects"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"cschlosser.doxdocgen",
+			"llvm-vs-code-extensions.vscode-clangd"
+		]
+	}
+}

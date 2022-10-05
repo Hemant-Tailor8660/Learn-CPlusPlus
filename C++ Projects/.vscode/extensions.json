@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "cschlosser.doxdocgen",
+        "llvm-vs-code-extensions.vscode-clangd",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
